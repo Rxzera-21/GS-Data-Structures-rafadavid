@@ -4,6 +4,7 @@ Arquivo DOCX anexado na entrega com:
 2. Explicação da lógica utilizada.
    
 Vídeo Explicativo com a Demonstração Prática do Sistema também anexado à entrega.
+https://youtu.be/q-OFMQwvoOU
 
 # Grupo
 Rafael Marinucci Peres - RM: 569729
